@@ -1,0 +1,56 @@
+#nav-bar{
+    display: flex; 
+    justify-content: space-between; 
+    padding-left:100px; 
+    padding-right:100px; 
+    box-shadow: 2px 1px 2px #eee;
+}
+
+#logo{
+    padding: 20px;
+}
+
+#nav-buttons{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+#buttons{
+    padding: 20px;
+    color: #666;
+}
+
+#promo-img{
+    display: flex;
+    justify-content: center;
+}
+
+#head-text{
+    display: flex;
+    justify-content: center;
+    color: #000000;
+}
+
+#sub-head-text{
+    display: flex;
+    justify-content: center;
+    color: #737171;
+}
+
+.head{
+    font-weight: 50;
+}
+
+#sign-in{
+    display: flex;
+    justify-content: center;
+    margin-left: 750px;
+    margin-right: 750px;
+    background-color: #387ed1;
+    color: #fff;
+    border: 1px solid rgba(0,0,0,0) !important;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 2cqb;
+}
